@@ -1,4 +1,67 @@
-.App {
-  font-family: sans-serif;
+/* Color Theme Swatches in Hex */
+/* .Fashion-1-hex { color: #010326; }
+.Fashion-2-hex { color: #0B1426; }
+.Fashion-3-hex { color: #BF9C34; }
+.Fashion-4-hex { color: #BF8F36; }
+.Fashion-5-hex { color: #D9A78B; } */
+
+/* Color Theme Swatches in RGBA */
+/* .Fashion-1-rgba { color: rgba(0, 2, 38, 1); }
+.Fashion-2-rgba { color: rgba(11, 20, 38, 1); }
+.Fashion-3-rgba { color: rgba(191, 156, 51, 1); }
+.Fashion-4-rgba { color: rgba(191, 143, 53, 1); }
+.Fashion-5-rgba { color: rgba(216, 167, 138, 1); } */
+
+/* Color Theme Swatches in HSLA */
+/* .Fashion-1-hsla { color: hsla(236, 96, 7, 1); }
+.Fashion-2-hsla { color: hsla(219, 53, 9, 1); }
+.Fashion-3-hsla { color: hsla(45, 57, 47, 1); }
+.Fashion-4-hsla { color: hsla(39, 56, 48, 1); }
+.Fashion-5-hsla { color: hsla(22, 50, 69, 1); } */
+
+body {
+  background-color: #010326;
+  color: white;
+}
+
+h3 {
+  color: #bf8f36;
+}
+
+h5 {
+  color: #bf8f36;
+  font-weight: 600;
+}
+.navbar .navbar-brand {
+  color: #bf8f36;
+}
+
+.wthree_head_section {
+  margin-bottom: 4em;
+}
+
+.w3l_header {
+  font-size: 3em;
+  letter-spacing: 1px;
+  position: relative;
+  font-weight: 600;
   text-align: center;
+}
+
+.area-img {
+  background: url("https://demo.w3layouts.com/demos_new/template_demo/26-02-2021/beauty-salon-demo_Free/1671668668/web/images/2.jpg");
+}
+
+.p1 {
+  background-color: #633e6e;
+}
+
+.p2 {
+  background-color: #f76872;
+}
+.p3 {
+  background-color: #ffcc54;
+}
+.p4 {
+  background-color: #50c1b6;
 }
