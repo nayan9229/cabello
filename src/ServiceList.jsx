@@ -16,6 +16,11 @@ const services = [
   { id: 13, name: 'ROOT TOUCH UP', price: 999, group: 'HAIR COLOR (MATRIX)' },
   { id: 14, name: 'GLOBAL HAIR COLOR', price: 2299, group: 'HAIR COLOR (MATRIX)' },
   { id: 15, name: 'GLOBAL FASHION COLOR', price: 2599, group: 'HAIR COLOR (MATRIX)' },
+  { id: 16, name: 'HIGHLIGHT PER STRIP', price: 249, group: 'HIGH LIGHT (LOREAL)' },
+  { id: 17, name: 'BALAYAG HIGH LIGHT', price: 4299, group: 'HIGH LIGHT (LOREAL)' },
+  { id: 18, name: 'OMBRE  HIGH LIGHT', price: 4399, group: 'HIGH LIGHT (LOREAL)' },
+  { id: 18, name: 'FOLIYGE  HIGH LIGHT', price: 4599, group: 'HIGH LIGHT (LOREAL)' },
+  { id: 19, name: 'HICHLIGHT PER STRIP', price: 199, group: 'HIGH LIGHT (MATRIX)' },
   // Add more services here
 ];
 
