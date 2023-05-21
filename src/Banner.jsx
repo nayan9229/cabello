@@ -31,8 +31,10 @@ const Banner = () => {
         <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
           <div className="bg-white p-8 rounded">
             <h2 className="text-2xl font-bold mb-4">Contact Details</h2>
-            <p>Name: Sumit</p>
-            <p>Phone: +91 123-456-7890</p>
+            <p>Name:  Sunit limbachiya</p>
+            <p>Phone: +91 99257 39049</p>
+            <p></p>
+            <p> <a href="https://g.co/kgs/r5WP8P" target="_blank">Shop Location</a></p>
             <button
               className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-4"
               onClick={handleContactClick}

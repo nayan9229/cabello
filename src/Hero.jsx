@@ -16,8 +16,8 @@ const Hero = () => {
     <div className="bg-gray-900" style={{ backgroundImage: `url(${randomBackgroundImageUrl})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <div className="container mx-auto">
         <div className="flex flex-col items-center justify-center py-20">
-          <h1 className="text-white text-5xl font-bold mb-4">Cabello the salon</h1>
-          <p className="text-white text-xl mb-8">Your one stop solustion for hair care.</p>
+          <h1 className="text-white text-5xl font-bold mb-4">Cabello the saloon</h1>
+          <p className="text-white text-xl mb-8">The Hair & Makeup Studio.</p>
           <a
             href="#"
             className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full transition duration-200"
