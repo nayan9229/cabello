@@ -19,8 +19,8 @@ const services = [
   { id: 16, name: 'HIGHLIGHT PER STRIP', price: 249, group: 'HIGH LIGHT (LOREAL)' },
   { id: 17, name: 'BALAYAG HIGH LIGHT', price: 4299, group: 'HIGH LIGHT (LOREAL)' },
   { id: 18, name: 'OMBRE  HIGH LIGHT', price: 4399, group: 'HIGH LIGHT (LOREAL)' },
-  { id: 18, name: 'FOLIYGE  HIGH LIGHT', price: 4599, group: 'HIGH LIGHT (LOREAL)' },
-  { id: 19, name: 'HICHLIGHT PER STRIP', price: 199, group: 'HIGH LIGHT (MATRIX)' },
+  { id: 19, name: 'FOLIYGE  HIGH LIGHT', price: 4599, group: 'HIGH LIGHT (LOREAL)' },
+  { id: 20, name: 'HICHLIGHT PER STRIP', price: 199, group: 'HIGH LIGHT (MATRIX)' },
   // Add more services here
 ];
 
